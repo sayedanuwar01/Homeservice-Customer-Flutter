@@ -1,4 +1,4 @@
-# handyman
+# HomeService Customer App with Flutter
 
 handyman customer app
 
